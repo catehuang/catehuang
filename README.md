@@ -1,16 +1,17 @@
-### Hi there 👋
+### 👋 Hi there, I'm Cate. 
 
-<!--
-**catehuang/catehuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+Information Technology graduate with 5 years’ of experience as a Software Quality Assurance. An expert in quality assurance, scripting, and test automation.
 
-Here are some ideas to get you started:
+### Programming Languages
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catehuang&layout=compact">
+  
+  
+### Frameworks
+<img src="https://skillicons.dev/icons?i=git,github,html,css,tailwind,bootstrap,jquery,react,redux,nodejs,angular,docker,mysql,mongodb,postgres" alt="skills logos" /> <br>
+<img src="https://skillicons.dev/icons?i=regex,selenium,vim,eclipse,vscode,gcp,heroku,firebase" alt="skills logos" /> <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
