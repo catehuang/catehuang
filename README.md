@@ -7,7 +7,7 @@ Information Technology graduate with 5 years’ of experience as a Software Qual
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catehuang&layout=compact">
   
   
-### Frameworks
+### Frameworks and Tools
 <img src="https://skillicons.dev/icons?i=git,github,html,css,tailwind,bootstrap,jquery,react,redux,nodejs,angular,docker,mysql,mongodb,postgres" alt="skills logos" /> <br>
 <img src="https://skillicons.dev/icons?i=regex,selenium,vim,eclipse,vscode,gcp,heroku,firebase" alt="skills logos" /> <br>
 
